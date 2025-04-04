@@ -1,0 +1,7 @@
+2025-04-04 07:05:23.283863 - Received CBT.V508.FILE272.PDS from FILE272.XMI 
+2025-04-04 07:05:23.284546 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE272.PDS, moved to PDS/$$$#DATE
+2025-04-04 07:05:23.284703 - Found #DOC.txt (text/plain) in CBT.V508.FILE272.PDS, moved to PDS/#DOC
+2025-04-04 07:05:23.284837 - Found #Z00394.txt (text/plain) in CBT.V508.FILE272.PDS, moved to PDS/#Z00394
+2025-04-04 07:05:23.284957 - Found @FILE272.txt (text/plain) in CBT.V508.FILE272.PDS, moved to PDS/@FILE272
+2025-04-04 07:05:23.285089 - Found USSEDIT.txt (text/plain) in CBT.V508.FILE272.PDS, moved to PDS/USSEDIT
+2025-04-04 07:05:23.285212 - Found USS32740.txt (text/plain) in CBT.V508.FILE272.PDS, moved to PDS/USS32740
